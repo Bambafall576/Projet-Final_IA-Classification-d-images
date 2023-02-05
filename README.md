@@ -18,7 +18,7 @@ NB: Il est important de noter que la classification d'images en médecine, comme
 
 
 
-# ------------------------------------------------------------------------------
+# ------------------------------------------------------------
 
- - Voir le fichier zippé "Resultats" pour voir ce que j'ai realisé pour ce projet.
+ - consulter le fichier zippé "Resultats" pour voir ce que j'ai pu realiser pour ce projet (par défaut de la caméra de la carte Sense BLE, le resultat n'est pas tres satisfaisant)
 

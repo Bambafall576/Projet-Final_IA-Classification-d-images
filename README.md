@@ -83,6 +83,6 @@ NB: Il est important de noter que la classification d'images en médecine, comme
 
 
 
--- ici, le moniteur série réagi tres bien mais le probleme est que je n'arrive pas à prendre des photos en temps réel avec la carte Arduino Sense BLE
+-- ici, le moniteur série réagi tres bien mais le probleme est que je n'arrive pas à prendre des photos en temps réel avec la carte Sense BLE
 
 

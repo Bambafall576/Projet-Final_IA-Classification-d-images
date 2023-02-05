@@ -15,3 +15,10 @@ Pour réaliser un projet de classification d'images de détection de cancer de l
 
 NB: Il est important de noter que la classification d'images en médecine, comme la détection de cancer de la peau, nécessite une précision élevée pour éviter les diagnostics erronés qui peuvent avoir des conséquences graves. Il est donc important de s'assurer que le modèle est soigneusement testé et évalué.
 
+
+
+
+# ------------------------------------------------------------------------------
+
+ - Voir le fichier zippé "Resultats" pour voir ce que j'ai realisé pour ce projet.
+

@@ -54,7 +54,7 @@ NB: Il est important de noter que la classification d'images en médecine, comme
 ![ISIC_0032557](https://user-images.githubusercontent.com/95058180/216799416-3c3ad25b-fa3c-471e-83f5-394d117bc9fb.jpg)
 
 
--- par défaut de la caméra de la carte Sense BLE, le resultat n'est pas tres satisfaisant(je prenais des images de ma peau pour les comparer avec celles de la banque de données ci-dessus "cancéreuse" mais c'était presque invisible c'est la raison pour laquelle j'ai pris une photo globale de moi et voir s'il est cancéreuse ou pas et heureusement Non !)
+-- par défaut de la caméra de la carte Sense BLE, le resultat n'est pas tres satisfaisant(je prenais des images de ma peau pour les comparer avec celles de la banque de données ci-dessus "cancéreuse" mais c'était presque invisible c'est la raison pour laquelle j'ai pris une photo globale de moi et voir s'il est cancéreuse ou pas et heureusement Non car nous constatons que l'image malgré quelle est floue elle a un pourcentage de 60% d'etre normale "Image_Normale" que cancereuse "VascularLesion" !)
 
 
 

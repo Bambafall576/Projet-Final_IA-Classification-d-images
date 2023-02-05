@@ -51,7 +51,10 @@ NB: Il est important de noter que la classification d'images en médecine, comme
 ![LiveClassification](https://user-images.githubusercontent.com/95058180/216798834-e2ba1476-1476-4370-b5d3-13fc022edadc.PNG)
 
 
--- par défaut de la caméra de la carte Sense BLE, le resultat n'est pas tres satisfaisant(je prenais des images de la peau pour les comparer avec celles de la banque de données "cancéreuse" mais c'etait presque invisible c'est la raison pour laquelle j'ai pris une photo globale de moi et voir s'il est cancéreuse ou pas et heureusement Non !)
+![ISIC_0032557](https://user-images.githubusercontent.com/95058180/216799416-3c3ad25b-fa3c-471e-83f5-394d117bc9fb.jpg)
+
+
+-- par défaut de la caméra de la carte Sense BLE, le resultat n'est pas tres satisfaisant(je prenais des images de la peau pour les comparer avec celles de la banque de données ci-dessus "cancéreuse" mais c'était presque invisible c'est la raison pour laquelle j'ai pris une photo globale de moi et voir s'il est cancéreuse ou pas et heureusement Non !)
 
 
 
@@ -65,7 +68,10 @@ NB: Il est important de noter que la classification d'images en médecine, comme
 ![ModelTesting](https://user-images.githubusercontent.com/95058180/216798849-f37f8e7b-b71b-40bd-aab4-f7037d0ce8cf.PNG)
 
 
+- Visualisation du model sur le site: https://netron.app/  :
 
+
+![sup](https://user-images.githubusercontent.com/95058180/216799527-76364476-8450-407f-98bb-604e9b7054ef.PNG)
 
 
 - Visualisation Moniteur Serie :
